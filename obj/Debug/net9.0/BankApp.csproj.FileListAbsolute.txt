@@ -12,3 +12,4 @@ C:\Users\VICTUS\Desktop\JAGWAR-DONT-OPEN\SYSTEM DESIGN\BankApp\obj\Debug\net9.0\
 C:\Users\VICTUS\Desktop\JAGWAR-DONT-OPEN\SYSTEM DESIGN\BankApp\obj\Debug\net9.0\BankApp.pdb
 C:\Users\VICTUS\Desktop\JAGWAR-DONT-OPEN\SYSTEM DESIGN\BankApp\obj\Debug\net9.0\BankApp.genruntimeconfig.cache
 C:\Users\VICTUS\Desktop\JAGWAR-DONT-OPEN\SYSTEM DESIGN\BankApp\obj\Debug\net9.0\ref\BankApp.dll
+C:\Users\VICTUS\Desktop\JAGWAR-DONT-OPEN\SYSTEM DESIGN\BankApp\obj\Debug\net9.0\BankApp.sourcelink.json

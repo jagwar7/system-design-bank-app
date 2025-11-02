@@ -1,0 +1,5 @@
+
+public class CurrentAccount : BankAccount, IWithdrawable
+{
+    private const decimal overdraftLimit = 1000
+}
